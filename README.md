@@ -17,10 +17,12 @@ intelligence.
 
 <img width="644" height="361" alt="image" src="https://github.com/user-attachments/assets/c3a8aec6-76eb-42fe-b5a1-eab92de0af79" />
 
+
+
 <img width="630" height="359" alt="image" src="https://github.com/user-attachments/assets/fcac7a08-4028-4484-84d6-2320750f13b0" />
 
 
-**Introduction of the Project** 
+# Introduction of the Project
 The Project Road Rage Xtreme is a 2D vehicle racing game with computer graphics that aims to 
 give players an entertaining and participatory experience. Naturally occurring landscapes like hills, 
 rivers, and forests add visual depth to the game area. Players drive their vehicles down a two-lane 
@@ -29,7 +31,7 @@ techniques like object transformations, animation, collision detection, keyboard
 management, and user interface design are all demonstrated in this project in an actual-life 
 scenario. 
 
-#Problem Statement / Literature Review / Background 
+# Problem Statement / Literature Review / Background 
 
 Driving and racing games are among the most popular gaming categories, including speed, 
 strategy, and survival. However, many existing games are quite complicated and need advanced 
@@ -42,7 +44,7 @@ user experiences. Building on these foundations, this project creates a simple r
 includes key features like collision detection, score tracking, distance computation, and life 
 management, resulting in an appropriate combination of teaching and entertainment. 
 
-#Objective of the Project 
+# Objective of the Project 
 
 • To design and implement a 2D car racing game using fundamental computer graphics 
 principles. 
@@ -53,7 +55,7 @@ measurement, and life tracking.
 • To provide a working example of a functional and user-friendly application built with 
 OpenGL and C++. 
 
-#Methodology / System Implementation Method 
+# Methodology / System Implementation Method 
 
 The project was implemented using OpenGL in C++, following structured steps: 
 
@@ -82,7 +84,7 @@ o Life Count: Maximum of 5 lives; losing 3 lives triggers the game over page.
 o Explosion Animation: A boom effect appears on collision. 
 o Game Over Page: Shows total score and distance traveled. 
 
-#Significance of the Project 
+# Significance of the Project 
 
 The project demonstrates the practical use of computer graphics techniques in creating a 
 functional game. It provides a hands-on understanding of: 
@@ -114,7 +116,7 @@ cloud-based score saving.
 By implementing these improvements, Road Rage Xtreme has the potential to evolve from a 
 simple 2D racing prototype into a fully featured, competitive, and professional racing game. 
 
-#Conclusion 
+# Conclusion 
 
 The Road Rage Xtreme project effectively uses fundamental computer graphics methods to 
 replicate a racing game for cars. Dynamic movement, collision handling, scoring, and interactive 
@@ -123,7 +125,7 @@ through the game mechanics and natural environment design. This project makes a 
 addition to the study of computer graphics since it shows how concepts and applications can be 
 combined to create a simple and engaging application.
 
-#Reference 
+# Reference 
 • OpenGL Documentation (https://www.opengl.org/) 
 • FreeGLUT/OpenGL Class Tutorials 
 • Donald Hearn & Pauline Baker – Computer Graphics with OpenGL
