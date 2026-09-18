@@ -20,7 +20,7 @@ intelligence.
 <img width="630" height="359" alt="image" src="https://github.com/user-attachments/assets/fcac7a08-4028-4484-84d6-2320750f13b0" />
 
 
-**Introduction of the Project 
+**Introduction of the Project** 
 The Project Road Rage Xtreme is a 2D vehicle racing game with computer graphics that aims to 
 give players an entertaining and participatory experience. Naturally occurring landscapes like hills, 
 rivers, and forests add visual depth to the game area. Players drive their vehicles down a two-lane 
