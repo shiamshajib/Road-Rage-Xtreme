@@ -95,7 +95,7 @@ Beyond academic pursuits, the project demonstrates how dynamic and instructive a
 may be created using very basic design principles. It lays the groundwork for more extensive 
 and complicated simulation, visualization, and game development projects.
 
-#Future Scope 
+# Future Scope 
 
 The current prototype can be expanded in multiple ways to make it more advanced and 
 appealing: 
