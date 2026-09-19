@@ -12,7 +12,7 @@ display. The project shows how to apply fundamental computer graphics ideas like
 avoidance, event management, animations, and transformations. By showcasing how theory can 
 be applied in real-world scenarios, it not only offers educational value but also establishes the 
 foundation for upcoming improvements like 3D visuals, multiplayer functionality, and artificial 
-intelligence. 
+intelligence.
 
 
 <img width="644" height="361" alt="image" src="https://github.com/user-attachments/assets/c3a8aec6-76eb-42fe-b5a1-eab92de0af79" />
